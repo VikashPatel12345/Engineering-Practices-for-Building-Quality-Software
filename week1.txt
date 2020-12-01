@@ -1,0 +1,48 @@
+____QUALITY IN DESIGN________________
+
+week 1
+
+
+1.The logical (intended) dependency is that observer depends on subject.
+Ans= true
+
+2. which seeks to simplify complex processes for a client by providing a API which hides the complicated calls/work needed, doesn't seem to fit.
+What pattern does?
+Ans- Adapter design pattern
+
+3.Which pattern would fit well as a solution to this systems needs?
+Ans- observer
+
+4.In order to allow for this change, we want to make use of a pattern that will allow this kind of expansion while minimizing changes to the existing code.
+What pattern would be best here?
+Ans- Strategy Design Pattern
+
+5.
+Consider the statement "In the Strategy pattern, the context should hold references to the ConcreteStrategies."
+Ans- When the context is tasked with deciding which strategy to use
+
+6.
+In the Observer pattern, one difficulty is that the Subject cannot pass an instance of itself to the Observer being updated, due to circular dependencies.
+Ans- False
+
+7.
+Once a class has been had an Adapter pattern solution applied, it cannot be adapted again.
+Ans-False
+
+8.Factories are no longer useful when you apply the Strategy Pattern to a family of algorithms.
+Ans- False
+
+9.Observer is an implementation of the Dependency Inversion principle
+Ans- True
+
+10.Strategy Pattern helps maintain the Open/Closed Principle.
+Ans- True
+
+11. 0.714
+12   0.333
+13. 0.5
+14  0.000 (Not Confirmed)
+15-  2
+16-  3
+17-  4
+18-  4
