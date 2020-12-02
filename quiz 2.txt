@@ -1,0 +1,37 @@
+________Quality in implementation____
+
+1.
+order of access restrictions
+indentation
+
+2.
+
+Spacing between elements
+variable name should be lowercase
+variable should have trailing underscore
+variable name should be separated by underscore
+
+3.
+variable name should be lowercase
+variable should have trailing underscore
+
+4.
+order of access restrictions
+indentation
+
+5.
+Spacing between elements
+
+6.
+
+method names should be CamelCase
+
+7. False
+8. { DONT KNOW}
+9. False
+10. False
+11. False
+12. True
+13. False
+14. True
+15. False
