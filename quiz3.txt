@@ -1,0 +1,22 @@
+______Quality in Testing and Deployment_________
+
+1. False
+2. False
+3. False
+4. True
+5. True
+6. False
+7. True
+8. False
+9. False
+10. True	
+11. True
+12. False
+13. True
+14. False
+15. True
+16. False
+17. False
+18. True
+19. False
+20. False
